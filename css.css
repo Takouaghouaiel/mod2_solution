@@ -1,0 +1,39 @@
+.titre{
+position: absolute;
+top: 0%;
+left: 50%;
+}
+.row p{
+    color:black;
+    padding: 10px;
+    margin: 15px;
+    background-color:grey;
+    text-decoration: none;
+    border: 2px solid;
+    display: block;
+    
+}
+span{
+    
+    margin-bottom: 15px;
+    position: relative;
+    top: 0px;
+    left: 285px;
+
+}
+#p1{
+    color: aliceblue;
+    background-color:darkred;
+    box-sizing: border-box;
+    border: 5px;
+    width: 30px;
+    }
+ #p3{
+    color:darkred;
+    background-color:aliceblue;
+ }
+#p2{
+    color: aliceblue;
+    background-color:black;
+    
+}
